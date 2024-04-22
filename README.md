@@ -18,7 +18,7 @@
 <td></td>
 </tr>
 <tr>
-<td>CCI-BAAI</td>
+<td>CCI2-BAAI</td>
 <td>https://data.baai.ac.cn/details/BAAI-CCI2</td>
 <td>500GB</td>
 <td>{"id","title","content"}</td>
