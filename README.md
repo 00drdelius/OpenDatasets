@@ -24,6 +24,11 @@
 <td>{"id","title","content"}</td>
 </tr>
 <tr>
+<td>CCI-BAAI</td>
+<td>https://huggingface.co/datasets/BAAI/CCI-Data</td>
+<td>104GB</td>
+</tr>
+<tr>
 <td>WuDaoCorpora-悟道</td>
 <td>https://data.baai.ac.cn/details/WuDaoCorporaText</td>
 <td>200GB</td>
