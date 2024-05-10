@@ -42,6 +42,12 @@
 <td>{"id","img_list(url)","title(text,markdown)","post_date","content(text,markdown)"}</td>
 </tr>
 <tr>
+<td>天工</td>
+<td>https://huggingface.co/datasets/Skywork/SkyPile-150B</td>
+<td>130B</td>
+<td>pure text</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
