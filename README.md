@@ -44,7 +44,7 @@
 <tr>
 <td>天工</td>
 <td>https://huggingface.co/datasets/Skywork/SkyPile-150B</td>
-<td>130B</td>
+<td>130B/600GB</td>
 <td>pure text</td>
 </tr>
 <tr>
